@@ -1,5 +1,7 @@
 ## Hi there 👋
 
-just building stuff and figuring things out as I go  
+Just building stuff and figuring things out as I go.
+
+Always learning, always experimenting.
 
 🌐 https://meliohub.github.io
